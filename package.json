@@ -28,6 +28,7 @@
 		"url": "https://github.com/philvbprogrammer/nativescript-powerinfo/issues"
 	},
 	"homepage": "https://github.com/philvbprogrammer/nativescript-powerinfo",
+	"license":"MIT",
 	"readmeFilename": "README.md",
 	"devDependencies": {
 		"typescript": "^1.8.7"
