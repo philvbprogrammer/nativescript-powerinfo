@@ -1,7 +1,7 @@
 {
   "name": "nativescript-powerinfo",
-  "version": "1.0.1",
-  "description": "battery & power information NativeScript plugin.",
+  "version": "1.0.2",
+  "description": "battery and power information NativeScript plugin.",
   "main": "powerinfo.js",
   "nativescript": {
     "platforms": {
