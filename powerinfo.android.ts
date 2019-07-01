@@ -1,6 +1,7 @@
-import app = require("application");
+import * as app from "tns-core-modules/application";
+
 declare let android: any;
-interface PowerData {
+export interface PowerData {
     health: number;
     icon_small: number;
     present: boolean;
